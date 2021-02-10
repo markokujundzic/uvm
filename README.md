@@ -1,2 +1,2 @@
 # uvm
-UVM framework using finite state machine DUT, written in Verilog and System Verilog
+UVM framework used for testing finite state machine DUT
